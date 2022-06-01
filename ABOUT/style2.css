@@ -1,0 +1,20 @@
+header h1 { background-color: aqua;
+text-align: center;} 
+.family{ background-color: blueviolet;
+text-align: center;
+font-size: 40px; }
+.data{font-size: 20px;
+background-color: blue;
+color: azure;}
+.live{ font-size: 40px;
+text-align: center;
+background-color: bisque;}
+.image{background-color: greenyellow;
+font-size: 40px;
+text-align: center;}
+.sharda{ text-align: center;
+    font-size: 80px;
+    background-color: greenyellow;}
+    .anshul { text-align: center;
+        font-size: 40px;
+        background-color: greenyellow;}

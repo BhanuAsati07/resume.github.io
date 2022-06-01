@@ -1,0 +1,20 @@
+header h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    background-color: rgb(127, 172, 77); 
+    font-style: italic;
+    font-weight: bolder;
+
+}
+body{ font-size: 40px;
+color: aliceblue;
+
+font-style: italic;}
+.background{ background-color: black;}
+p h1{ text-align: center;
+ }
+ .navigation{ text-align: left;
+font-size: 40px;
+background-color: aqua;
+}
